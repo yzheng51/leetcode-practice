@@ -1,0 +1,44 @@
+{
+    "version": "2.0.0",
+    "windows": {
+        "options": {
+            "shell": {
+                "executable": "cmd.exe",
+                "args": [
+                    "/d",
+                    "/c"
+                ]
+            }
+        }
+    },
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "cl build debug",
+            "command": "cl.exe",
+            "args": [
+                "/I ${fileDirname}",
+                "/I include",
+                "/Zi",
+                "/EHsc",
+                "/Fe:",
+                "bin\\${fileBasenameNoExtension}.exe",
+                "${file}"
+            ]
+        },
+        {
+            "type": "shell",
+            "label": "cl build release",
+            "command": "cl.exe",
+            "args": [
+                "/I ${fileDirname}",
+                "/I include",
+                "/O2",
+                "/EHsc",
+                "/Fe:",
+                "bin\\${fileBasenameNoExtension}.exe",
+                "${fileDirname}\\${file}"
+            ]
+        }
+    ]
+}
