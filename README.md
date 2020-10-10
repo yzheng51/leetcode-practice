@@ -20,4 +20,5 @@
 | 27  | Remove Element | [C++](problems/remove_element/solution.hpp) | [note](problems/remove_element) | Easy     | [link](https://leetcode.com/problems/remove-element/) |
 | 28  | Implement strStr() | [C++](problems/implement_strstr/solution.hpp) | [note](problems/implement_strstr) | Easy     | [link](https://leetcode.com/problems/implement-strstr/) |
 | 29  | Divide Two Integers | [C++](problems/divide_two_integers/solution.hpp) | [note](problems/divide_two_integers) | Medium     | [link](https://leetcode.com/problems/divide-two-integers/) |
+| 33  | Search In Rotated Sorted Array | [C++](problems/search_in_rotated_sorted_array/solution.hpp) | [note](problems/search_in_rotated_sorted_array) | Medium     | [link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
