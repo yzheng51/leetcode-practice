@@ -21,4 +21,5 @@
 | 28  | Implement strStr() | [C++](problems/implement_strstr/solution.hpp) | [note](problems/implement_strstr) | Easy     | [link](https://leetcode.com/problems/implement-strstr/) |
 | 29  | Divide Two Integers | [C++](problems/divide_two_integers/solution.hpp) | [note](problems/divide_two_integers) | Medium     | [link](https://leetcode.com/problems/divide-two-integers/) |
 | 33  | Search In Rotated Sorted Array | [C++](problems/search_in_rotated_sorted_array/solution.hpp) | [note](problems/search_in_rotated_sorted_array) | Medium     | [link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 50  | Pow(x, n) | [C++](problems/powx_n/solution.hpp) | [note](problems/powx_n) | Medium     | [link](https://leetcode.com/problems/powx-n/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
