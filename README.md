@@ -24,4 +24,5 @@
 | 50  | Pow(x, n) | [C++](problems/powx_n/solution.hpp) | [note](problems/powx_n) | Medium     | [link](https://leetcode.com/problems/powx-n/) |
 | 51  | N Queens | [C++](problems/n_queens/solution.hpp) | [note](problems/n_queens) | Hard     | [link](https://leetcode.com/problems/n-queens/) |
 | 56  | Merge Intervals | [C++](problems/merge_intervals/solution.hpp) | [note](problems/merge_intervals) | Medium     | [link](https://leetcode.com/problems/merge-intervals/) |
+| 64  | Minimum Path Sum | [C++](problems/minimum_path_sum/solution.hpp) | [note](problems/minimum_path_sum) | Medium     | [link](https://leetcode.com/problems/minimum-path-sum/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
