@@ -9,4 +9,5 @@
 | 5   | Longest Palindromic Substring | [C++](problems/longest_palindromic_substring/solution.hpp) | [note](problems/longest_palindromic_substring) | Medium     | [link](https://leetcode.com/problems/longest-palindromic-substring/) |
 | 6   | Zigzag Conversion | [C++](problems/zigzag_conversion/solution.hpp) | [note](problems/zigzag_conversion) | Medium     | [link](https://leetcode.com/problems/zigzag-conversion/) |
 | 7   | Reverse Integer | [C++](problems/reverse_integer/solution.hpp) | [note](problems/reverse_integer) | Easy     | [link](https://leetcode.com/problems/reverse-integer/) |
+| 8   | String To Integer (Atoi) | [C++](problems/string_to_integer_atoi/solution.hpp) | [note](problems/string_to_integer_atoi) | Medium     | [link](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
