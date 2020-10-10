@@ -11,4 +11,5 @@
 | 7   | Reverse Integer | [C++](problems/reverse_integer/solution.hpp) | [note](problems/reverse_integer) | Easy     | [link](https://leetcode.com/problems/reverse-integer/) |
 | 8   | String To Integer (Atoi) | [C++](problems/string_to_integer_atoi/solution.hpp) | [note](problems/string_to_integer_atoi) | Medium     | [link](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 9   | Palindrome Number | [C++](problems/palindrome_number/solution.hpp) | [note](problems/palindrome_number) | Easy     | [link](https://leetcode.com/problems/palindrome-number/) |
+| 10  | Regular Expression Matching | [C++](problems/regular_expression_matching/solution.hpp) | [note](problems/regular_expression_matching) | Hard     | [link](https://leetcode.com/problems/regular-expression-matching/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
