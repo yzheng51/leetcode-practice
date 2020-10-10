@@ -18,5 +18,5 @@
 | 21  | Merge Two Sorted Lists | [C++](problems/merge_two_sorted_lists/solution.hpp) | [note](problems/merge_two_sorted_lists) | Easy     | [link](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 26  | Remove Duplicates From Sorted Array | [C++](problems/remove_duplicates_from_sorted_array/solution.hpp) | [note](problems/remove_duplicates_from_sorted_array) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27  | Remove Element | [C++](problems/remove_element/solution.hpp) | [note](problems/remove_element) | Easy     | [link](https://leetcode.com/problems/remove-element/) |
-| 28  | Implement Strstr | [C++](problems/implement_strstr/solution.hpp) | [note](problems/implement_strstr) | Easy     | [link](https://leetcode.com/problems/implement-strstr/) |
+| 28  | Implement strStr() | [C++](problems/implement_strstr/solution.hpp) | [note](problems/implement_strstr) | Easy     | [link](https://leetcode.com/problems/implement-strstr/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
