@@ -26,4 +26,5 @@
 | 56  | Merge Intervals | [C++](problems/merge_intervals/solution.hpp) | [note](problems/merge_intervals) | Medium     | [link](https://leetcode.com/problems/merge-intervals/) |
 | 64  | Minimum Path Sum | [C++](problems/minimum_path_sum/solution.hpp) | [note](problems/minimum_path_sum) | Medium     | [link](https://leetcode.com/problems/minimum-path-sum/) |
 | 69  | Sqrt(x) | [C++](problems/sqrtx/solution.hpp) | [note](problems/sqrtx) | Easy     | [link](https://leetcode.com/problems/sqrtx/) |
+| 73  | Set Matrix Zeroes | [C++](problems/set_matrix_zeroes/solution.hpp) | [note](problems/set_matrix_zeroes) | Medium     | [link](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
