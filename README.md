@@ -31,4 +31,4 @@
 | 78  | Subsets | [C++](problems/subsets/solution.hpp) | [note](problems/subsets) | Medium     | [link](https://leetcode.com/problems/subsets/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 263 | Ugly Number | [C++](problems/ugly_number/solution.hpp) | [note](problems/ugly_number) | Easy     | [link](https://leetcode.com/problems/ugly-number/) |
-| 264 | Ugly Number II | [C++](problems/ugly_number_ii/solution.hpp) | [note](problems/ugly_number_ii) | Easy     | [link](https://leetcode.com/problems/ugly-number-ii/) |
+| 264 | Ugly Number II | [C++](problems/ugly_number_ii/solution.hpp) | [note](problems/ugly_number_ii) | Medium     | [link](https://leetcode.com/problems/ugly-number-ii/) |
