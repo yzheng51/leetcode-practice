@@ -30,3 +30,4 @@
 | 77  | Combinations | [C++](problems/combinations/solution.hpp) | [note](problems/combinations) | Medium     | [link](https://leetcode.com/problems/combinations/) |
 | 78  | Subsets | [C++](problems/subsets/solution.hpp) | [note](problems/subsets) | Medium     | [link](https://leetcode.com/problems/subsets/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 263 | Ugly Number | [C++](problems/ugly_number/solution.hpp) | [note](problems/ugly_number) | Easy     | [link](https://leetcode.com/problems/ugly-number/) |
