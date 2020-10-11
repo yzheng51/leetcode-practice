@@ -32,3 +32,4 @@
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 263 | Ugly Number | [C++](problems/ugly_number/solution.hpp) | [note](problems/ugly_number) | Easy     | [link](https://leetcode.com/problems/ugly-number/) |
 | 264 | Ugly Number II | [C++](problems/ugly_number_ii/solution.hpp) | [note](problems/ugly_number_ii) | Medium     | [link](https://leetcode.com/problems/ugly-number-ii/) |
+| 300 | Longest Increasing Subsequence | [C++](problems/longest_increasing_subsequence/solution.hpp) | [note](problems/longest_increasing_subsequence) | Medium     | [link](https://leetcode.com/problems/longest-increasing-subsequence/) |
