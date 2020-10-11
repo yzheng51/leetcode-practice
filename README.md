@@ -28,4 +28,5 @@
 | 69  | Sqrt(x) | [C++](problems/sqrtx/solution.hpp) | [note](problems/sqrtx) | Easy     | [link](https://leetcode.com/problems/sqrtx/) |
 | 73  | Set Matrix Zeroes | [C++](problems/set_matrix_zeroes/solution.hpp) | [note](problems/set_matrix_zeroes) | Medium     | [link](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 77  | Combinations | [C++](problems/combinations/solution.hpp) | [note](problems/combinations) | Medium     | [link](https://leetcode.com/problems/combinations/) |
+| 78  | Subsets | [C++](problems/subsets/solution.hpp) | [note](problems/subsets) | Medium     | [link](https://leetcode.com/problems/subsets/) |
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
