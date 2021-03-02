@@ -8,7 +8,7 @@ public:
         int res = nums[left];
 
         while (left <= right) {
-            int mid = (right - left) / 2 + left;
+            int mid = left + (right - left) / 2;
             if (nums[left] <= nums[mid]) {
                 res = std::min(res, nums[left]);
                 left = mid + 1;

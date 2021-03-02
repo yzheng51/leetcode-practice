@@ -28,7 +28,29 @@
 
 ## 解法
 
-经典的二分法练习题，重点在于循环终止条件，`nums[left] == nums[mid]` 位置和 `left/right` 值变更的条件判断。比较好的方案是先按二分查找的模板写出代码后，分别取一个二维数组和三维数组代入做测试。在本题中可以将`[1, 2]` 和 `[2, 1]` 依次带入代码中后可以将 `nums[left] == nums[mid]` 合并入 `nums[left] < nums[mid]` 的条件中。代入 `[3, 1, 2]` 可以将 `right = mid - 1` 调整为 `right = mid` 。
+经典的二分法练习题，重点在于循环终止条件，`nums[left] == nums[mid]` 位置和 `left/right` 值变更的条件判断。比较好的方案是先按二分查找的模板写出代码后，
+
+```cpp
+// 二分查找模板
+int binarySearch(vector<int> &nums, int target) {
+    int left = 0;
+    int right = nums.size() - 1;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        if (nums[mid] == target) {
+            return mid;
+        } else if (nums[mid] < target) {
+            left = mid + 1;
+        } else if (nums[mid] > target) {
+            right = mid - 1;
+        }
+    }
+    return -1;
+}
+```
+
+分别取一个二维数组和三维数组代入做测试。在本题中可以将`[1, 2]` 和 `[2, 1]` 依次带入代码中后可以将 `nums[left] == nums[mid]` 合并入 `nums[left] < nums[mid]` 的条件中。代入 `[3, 1, 2]` 可以将 `right = mid - 1` 调整为 `right = mid` 。
 
 ## 代码
 
@@ -41,7 +63,7 @@ public:
         int res = nums[left];
 
         while (left <= right) {
-            int mid = (right - left) / 2 + left;
+            int mid = left + (right - left) / 2;
             if (nums[left] <= nums[mid]) {
                 res = std::min(res, nums[left]);
                 left = mid + 1;
