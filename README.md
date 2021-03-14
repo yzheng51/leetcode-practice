@@ -33,6 +33,7 @@
 | 83  | Remove Duplicates from Sorted List | [C++](problems/remove_duplicates_from_sorted_list/solution.hpp) | [note](problems/remove_duplicates_from_sorted_list) | Easy     | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 100 | Same Tree | [C++](problems/same_tree/solution.hpp) | [note](problems/same_tree) | Easy     | [link](https://leetcode.com/problems/same-tree/) |
 | 153 | Find Minimum in Rotated Sorted Array | [C++](problems/find_minimum_in_rotated_sorted_array/solution.hpp) | [note](problems/find_minimum_in_rotated_sorted_array) | Medium     | [link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 167 | Two Sum II - Input array is sorted | [C++](problems/two_sum_ii_input_array_is_sorted/solution.hpp) | [note](problems/two_sum_ii_input_array_is_sorted) | Easy     | [link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 263 | Ugly Number | [C++](problems/ugly_number/solution.hpp) | [note](problems/ugly_number) | Easy     | [link](https://leetcode.com/problems/ugly-number/) |
 | 264 | Ugly Number II | [C++](problems/ugly_number_ii/solution.hpp) | [note](problems/ugly_number_ii) | Medium     | [link](https://leetcode.com/problems/ugly-number-ii/) |
 | 300 | Longest Increasing Subsequence | [C++](problems/longest_increasing_subsequence/solution.hpp) | [note](problems/longest_increasing_subsequence) | Medium     | [link](https://leetcode.com/problems/longest-increasing-subsequence/) |
