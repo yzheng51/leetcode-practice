@@ -39,15 +39,15 @@
 ```cpp
 class Solution {
 public:
-    std::vector<int> preorderTraversal(TreeNode *root) {
-        std::vector<int> res;
+    vector<int> preorderTraversal(TreeNode *root) {
+        vector<int> res;
         preorderTraversalHelper(res, root);
 
         return res;
     }
 
 private:
-    void preorderTraversalHelper(std::vector<int> &res, TreeNode *root) {
+    void preorderTraversalHelper(vector<int> &res, TreeNode *root) {
         if (!root) {
             return;
         }
@@ -67,12 +67,12 @@ private:
 ```cpp
 class Solution {
 public:
-    std::vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> preorderTraversal(TreeNode* root) {
         if (!root) {
             return {};
         }
-        std::vector<int> res;
-        std::stack<TreeNode*> stk;
+        vector<int> res;
+        stack<TreeNode*> stk;
         stk.push(root);
 
         while (!stk.empty()) {
