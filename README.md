@@ -35,6 +35,7 @@
 | 100 | Same Tree | [C++](problems/same_tree/solution.hpp) | [note](problems/same_tree) | Easy     | [link](https://leetcode.com/problems/same-tree/) |
 | 104 | Maximum Depth of Binary Tree | [C++](problems/maximum_depth_of_binary_tree/solution.hpp) | [note](problems/maximum_depth_of_binary_tree) | Easy     | [link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 | 110 | Balanced Binary Tree | [C++](problems/balanced_binary_tree/solution.hpp) | [note](problems/balanced_binary_tree) | Easy     | [link](https://leetcode.com/problems/balanced-binary-tree/) |
+| 121 | Best Time to Buy and Sell Stock | [C++](problems/best_time_to_buy_and_sell_stock/solution.hpp) | [note](problems/best_time_to_buy_and_sell_stock) | Easy     | [link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 144 | Binary Tree Preorder Traversal | [C++](problems/binary_tree_preorder_traversal/solution.hpp) | [note](problems/binary_tree_preorder_traversal) | Easy     | [link](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 153 | Find Minimum in Rotated Sorted Array | [C++](problems/find_minimum_in_rotated_sorted_array/solution.hpp) | [note](problems/find_minimum_in_rotated_sorted_array) | Medium     | [link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 160 | Intersection of Two Linked Lists | [C++](problems/intersection_of_two_linked_lists/solution.hpp) | [note](problems/intersection_of_two_linked_lists) | Easy     | [link](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
