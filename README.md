@@ -46,3 +46,4 @@
 | 264 | Ugly Number II | [C++](problems/ugly_number_ii/solution.hpp) | [note](problems/ugly_number_ii) | Medium     | [link](https://leetcode.com/problems/ugly-number-ii/) |
 | 300 | Longest Increasing Subsequence | [C++](problems/longest_increasing_subsequence/solution.hpp) | [note](problems/longest_increasing_subsequence) | Medium     | [link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | 313 | Super Ugly Number | [C++](problems/super_ugly_number/solution.hpp) | [note](problems/super_ugly_number) | Medium     | [link](https://leetcode.com/problems/super-ugly-number/) |
+| 415 | Add Strings | [C++](problems/add_strings/solution.hpp) | [note](problems/add_strings) | Easy     | [link](https://leetcode.com/problems/add-strings/) |
